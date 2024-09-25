@@ -1,5 +1,5 @@
 package java.com.techie.microservices.inventory;
-
+//https://programmingtechie.com/articles/spring-boot-microservices-tutorial
 import com.techie.microservices.inventory.InventoryServiceApplication;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.test.context.TestConfiguration;
